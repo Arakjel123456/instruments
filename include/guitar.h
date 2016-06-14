@@ -4,6 +4,8 @@
 
 class Guitar : public Instrument
 {
+private:
+	std::string yoooJenkinsXD;
 public:
     Guitar();
     Guitar(std::string kindOfInstrument, int ageOfInstrument, int priceOfInstrument);
