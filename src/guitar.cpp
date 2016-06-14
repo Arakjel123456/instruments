@@ -1,4 +1,5 @@
 #include "guitar.h"
+#include <vector> // just checking if jenkis will built it ;)
 
 Guitar::Guitar()
 {
