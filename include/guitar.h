@@ -6,6 +6,7 @@ class Guitar : public Instrument
 {
 private:
 	std::string yoooJenkinsXD;
+	std::string sloJenkinsPlugin;
 public:
     Guitar();
     Guitar(std::string kindOfInstrument, int ageOfInstrument, int priceOfInstrument);
